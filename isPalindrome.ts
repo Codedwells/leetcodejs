@@ -1,3 +1,4 @@
+// EASY
 // Given an integer x, return true if x is a palindrome, and false otherwise.
 // Input: x = 121
 // Output: true
